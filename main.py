@@ -27,4 +27,4 @@ async def on_message(message):
         else:
             await message.channel.send(shiba2)
 
-client.run('ODQ3ODg3NTcwNzcxOTAyNDg0.YLEm1Q.UbYITqcNv-RIvcvKMV6LV1I6GQs')
+client.run('BOT_TOKEN')
